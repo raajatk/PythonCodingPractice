@@ -1,6 +1,7 @@
 """Write a program (function!) that takes a list and returns a new list that
 contains all the elements of the first list minus all the duplicates.
-Write two different functions to do this - one using a loop and constructing a list, and another using sets.
+Write two different functions to do this - one using a loop and constructing
+a list, and another using sets.
 """
 
 def remove_duplicates_using_loop(list):
